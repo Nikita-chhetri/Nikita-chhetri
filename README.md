@@ -17,13 +17,14 @@
   <a href="www.linkedin.com/in/nikita-chhetri">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-youtube-URL](https://www.instagram.com/nikitachhetri18?igsh=MTJqdDNmZ3EwZHQ4OA==)">
+  <a href="https://www.instagram.com/nikitachhetri18?igsh=MTJqdDNmZ3EwZHQ4OA==">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://www.facebook.com/nikita.chhetri.1800?mibextid=ZbWKwL)">
+  <a href="https://www.facebook.com/nikita.chhetri.1800?mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
+[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/nikita-chhetri)
 
 
 - :hammer_and_wrench: Languages and Tools :<div>
