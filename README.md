@@ -8,7 +8,7 @@
 </h1>
 -  I’m @Nikita-chhetri.
 
-- :telescope: I'm a forward thinking and passionate tech fanatic with a knack for solving problems<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- :telescope: I'm a forward thinking and passionate tech fanatic with a knack for solving problems using data insights.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - 👀 I’m interested in learning new things and getting aquainted with the changing trends of the world.
 - 🌱 I’m currently diving deeper into data science and exploring Machine learning.
@@ -24,12 +24,13 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 - :hammer_and_wrench: Languages and Tools :<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="50"/>&nbsp;
+  <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png"  title="Tableau"  alt="Tableau" width="100" height="40"/>&nbsp;
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  title="PowerBI"  alt="PowerBI" width="90" height="40"/>&nbsp;
 </div>
 <!---
 Nikita-chhetri/Nikita-chhetri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
