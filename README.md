@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/nikita-chhetri)
+
 
 
 - :hammer_and_wrench: Languages and Tools :<div>
