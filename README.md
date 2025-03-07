@@ -14,9 +14,6 @@
 - 🌱 I’m currently diving deeper into data science and exploring Machine learning.
 - 💞️ I’m looking to collaborate on projects to implement my knowledge and enhance my skills.
 - 📫 How to reach me:<div id="badges">
-  <a href="https://www.linkedin.com/in/nikita-chhetri/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
   <a href="https://www.instagram.com/nikitachhetri18?igsh=MTJqdDNmZ3EwZHQ4OA==">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
