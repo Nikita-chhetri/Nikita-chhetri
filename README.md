@@ -21,19 +21,23 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
+🗄️ Databases & Warehousing
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="50"/> 
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" title="Snowflake" alt="Snowflake" width="50" height="50"/> 
+☁️ Cloud & Integration
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="50" height="50"/> 
+<img src="https://custom-icon-badges.demolab.com/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" title="SSIS" alt="SSIS" height="35"/> 
+<img src="https://custom-icon-badges.demolab.com/badge/ADF-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" title="Azure Data Factory" alt="ADF" height="35"/> 
+📊 Analytics & Reporting
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI" alt="Power BI" width="50" height="40"/> 
+<img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" title="Tableau" alt="Tableau" width="100" height="40"/> 
+<img src="https://custom-icon-badges.demolab.com/badge/SSRS-FF8C00?style=for-the-badge&logo=microsoft&logoColor=white" title="SSRS" alt="SSRS" height="35"/> 
+💻 Programming
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="40"/> 
+</div>
 
 
-
-- :hammer_and_wrench: Languages and Tools :<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SSMS" alt="SSMS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="40"/>&nbsp;
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  title="PowerBI"  alt="PowerBI" width="90" height="40"/>&nbsp;
-  <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png"  title="Tableau"  alt="Tableau" width="100" height="40"/>&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" title="SSIS" alt="SSIS" height="40"/>&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/SSRS-FF8C00?style=for-the-badge&logo=microsoft&logoColor=white" title="SSRS" alt="SSRS" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure Data Factory" alt="ADF" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" title="Snowflake" alt="Snowflake" width="50" height="50"/>&nbsp;
   
 
 </div>
@@ -41,3 +45,5 @@
 Nikita-chhetri/Nikita-chhetri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
