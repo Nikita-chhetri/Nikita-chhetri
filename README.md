@@ -11,7 +11,7 @@
 - :telescope: I'm a forward thinking and passionate tech fanatic with a knack for solving problems using data insights.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - 👀 I’m interested in learning new things and getting aquainted with the changing trends of the world.
-- 🌱 I’m currently diving deeper into data science and exploring Machine learning.
+- 🌱 I’m currently diving deeper into data science and Cloud Architecture (Azure/Snowflake) and architecting Generative AI solutions.
 - 💞️ I’m looking to collaborate on projects to implement my knowledge and enhance my skills.
 - 📫 How to reach me:<div id="badges">
   <a href="https://www.instagram.com/nikitachhetri18?igsh=MTJqdDNmZ3EwZHQ4OA==">
@@ -25,10 +25,17 @@
 
 
 - :hammer_and_wrench: Languages and Tools :<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SSMS" alt="SSMS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="50"/>&nbsp;
-  <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png"  title="Tableau"  alt="Tableau" width="100" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="40"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  title="PowerBI"  alt="PowerBI" width="90" height="40"/>&nbsp;
+  <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png"  title="Tableau"  alt="Tableau" width="100" height="40"/>&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/SSIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" title="SSIS" alt="SSIS" height="40"/>&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/SSRS-FF8C00?style=for-the-badge&logo=microsoft&logoColor=white" title="SSRS" alt="SSRS" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure Data Factory" alt="ADF" width="50" height="50"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" title="Snowflake" alt="Snowflake" width="50" height="50"/>&nbsp;
+  
+
 </div>
 <!---
 Nikita-chhetri/Nikita-chhetri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
